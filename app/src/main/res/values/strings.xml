@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RandomNumberGenerator</string>
+    <string name="numeriukas">Numeriukas</string>
+    <string name="tekstas">Tekstas</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="mygtukas">Mygtukas</string>
+    <string name="consoleconsoleconsoleconsoleconsoleconsoleconsoleconsol">ConsoleConsoleConsoleConsoleConsoleConsoleConsoleConsol</string>
+    <string name="Name">Name:</string>
+    <string name="hp">HP:</string>
+    <string name="dmg">DMG:</string>
+    <string name="sleeping">sleeping</string>
+    <string name="alive">alive</string>
+    <string name="Alive">Alive:</string>
+    <string name="Sleeping">Sleeping:</string>
+</resources>
